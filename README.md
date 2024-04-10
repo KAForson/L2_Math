@@ -1,5 +1,5 @@
 # L2_Math
-These are my Math lab projects during my second year of University where I worked on: 
+These are my Math lab projects during my second year of my bachelors in Mechanical and Production Engineering, where I worked on: 
 - Regression Linéaire
 - Manipulation de vecteurs et matrices pour la résolution de systèmes linéaires
 - Calculs et Méthodes des Moindre Carré Generalisé
